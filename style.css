@@ -316,7 +316,7 @@ h3.my-profession
     border-bottom: 10px solid var(--skin-color) ;
     border-right: 10px solid var(--skin-color) ;
     bottom: -40px;
-    right: 20px ;
+    right: 5px ;
 }
 .home-img::before
 {
@@ -666,7 +666,9 @@ h3.my-profession
 {
     height: 50px;
     padding: 0 50px;
-
+    cursor: pointer;
+    padding-top: 10px;
+    font-size: 20px;
 }
 .sicons
 {
@@ -787,6 +789,6 @@ h3.my-profession
     }
     .sicons
     {
-        margin-left: 350px;
+        margin-left: 250px;
     }
 }
